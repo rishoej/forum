@@ -1,0 +1,123 @@
+body {
+	margin:90px 20px 20px 20px;
+}
+.navbar{
+	background-color:#FCFCFC;
+	border:0px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+	font-size:24px;	
+	width:100%;
+	margin:0 20px 20px 0;
+	background: #fff;
+	-moz-box-shadow: 0 2px 3px 0px rgba(0, 0, 0, 0.16);
+	-webkit-box-shadow: 0 2px 3px 0px rgba(0, 0, 0, 0.16);
+	box-shadow: 0 2px 3px 0px rgba(0, 0, 0, 0.16);
+}
+.navbar-brand {
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:40px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+	margin-left:20px;	
+}
+.navbar-toggle {
+	margin-top:10px;
+	margin-bottom:10px;
+	height:100%;
+	padding:16px 17px;
+}
+th {
+	font-size:18px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+	color:#777;
+	margin:0 0 0 0;
+}
+td {
+	font-size:18px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+	color:#222;
+	margin:0 0 0 0;
+}
+
+p,a {
+	font-size:18px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+	color:#444;
+	margin:0 0 0 0;
+}
+a:hover {
+	font-family: 'Open Sans', sans-serif;
+	color:#444;
+}
+p.menu {
+	max-width:1000px;	
+}
+h1 {
+	font-size:30px;	
+	font-family: 'Open Sans', sans-serif;
+	font-weight:200;
+	color:#444;
+}
+h2 {
+	font-size:35px;	
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+	color:#777;
+}
+.container{
+	background-color:#ffffff;
+	max-width:1000px;
+}
+p.indsamling {
+	text-align:center;
+}
+hr {
+	
+}
+a.forfatter {
+	color:#5cb85c;
+	font-size:24px;
+	font-weight:300;
+	text-align:center;
+}
+img.img-circle{
+	max-width:300px;
+	vertical-align: middle;
+}
+td.rating {
+	width:30px;
+}
+td.ratingNummer{
+	text-align:right;
+	width:50px;
+}
+td.titel {
+	
+}
+.form-control {
+	font-size:18px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+	color:#777;	
+	margin:0 0 0 0;
+}
+.overskrift {
+	font-size:40px;	
+}
+.like {
+	background-color:#5cb85c;
+	color:#ffffff;
+}
+
+
+
+
+
+
+
+
