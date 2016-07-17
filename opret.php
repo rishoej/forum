@@ -22,7 +22,7 @@
 </div>
 <div class="row">
 	<div class="col-lg-1 col-md-1 col-xs-2">
-		<center><a href="#" class="forfatter"><img src="images/forfatter.jpg" alt="..." class="img-circle" style="width:100%;"></center>
+		<center><a href="#" class="forfatter"><img src="billeder/forfatter.jpg" alt="..." class="img-circle" style="width:100%;"></center>
 	</div>
 	<div class="col-lg-11 col-md-11 col-xs-10">
 
